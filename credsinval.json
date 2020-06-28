@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medstore-spreadsheet",
+  "private_key_id": "a2810b16ef9c71a8b352fd68a8c06848e1d164a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbCsPTO9ZCObil\nU8Rn9/AnmzVlXilMq4hJa+OPLq5F1kvA9fZmQzt29HJfznuRLCpCBq9rg9rogysZ\nLCGPocTK9FwifqNLl3klsON6DKf1vkCkHs6Xw2v5WV3FUaKUAX8S69/tFgBkxhN+\n8szRsR6S/5YnEAWVM5In4EmjMV0RfzWE755UKzUDasQG1GY1wIAZVIUJ7jtIyC4v\nb9EM/oD8/gO52neX+TBl30KJ+w8gI2pwUtMiBHic3XN6U1Y1QBG5R1pA0NOl3a5S\nSrrDuKYcpCesbaRDQRIu77lSjt61EmhYaQsXKjq+PBg/pyBPZt3amfgLJUjm2gKJ\n9iAvwpFnAgMBAAECggEAFElTIy4BVHasrYaUPI20EN1ISM8KdLDoaxb2AQj4yO7d\nHaPxTXh+7OCCS1KUrNj3Cd70ZWCCLF88AetaKYA0uYuXYfS+VXM96PZyup2yUmob\nl33nxp14NiRWgS2JKiLh/NimhaVAgERso5/jDeLw3wdt9FwufChxzMxA8QdR/VUQ\nHYD6lIpkcv4O5fHJGOKb6i9UxAA6eRBuvs5bgRzk6V1lK75y8nOZDe+6VTkqRDHU\nBidr65gCOOi6lb845YZUuuJa2fv+TlUl/Hx+KEmG+gTDcImlCr3YA5JnSJHp6/kK\nVQ7o7EUX3yXCA89PDSSTrEchCawDyF4cmc69qnRMiQKBgQDKQDrKARwZY5A8yfC2\n1RgIbzSunLHYGftxSze3IHdrAwFM7G09WWmfY3D5KfpZYnD5CQUW8Zg+tj2feG1S\nMVm8B7aGLyL4mVoKnBF2oO82m2lbWeFUOyn2SxhpDF5ZJ/592JRuMKL0bHr5r98r\nFnKPIIolN7uvQBcT8sTOHPh6nwKBgQDEPsSFG3KM+283tm7bRvkJ2Bd1zOl6yxTZ\nnQ9WOCAHw2914ax/IneZSGyYyYP8loBY1aJoZPy5K1+uy6pHe2l6q78owPRbOIPP\nIUJ08DB6PaTQjXyTzsjdZ2N+5XuS8Z78L0c06O+mFSmbdlnd5K8At/VDp1eLigP6\no5JcVQ48OQKBgAwn7iCkDm9MN6gfrxMeHbKsFGuGSX4mmaFGlxOvpN3OsW5RK4Or\ncxi8XlbrefuTWhztuNuXK8JhK7UBBPkStEUD5amM/boZZXsLxFTv+VC76IowDcYF\nRFFkVBRERQtwxvADa3BwBetQ9dc6BdzOHZaSqxrvjZ1L6dcuGTwWK60bAoGAWvVc\n0PUv2viPTBtatnfm5hEqjoczkJ6gQ1zwxt2suuxytQiskyC+nmVbMFX2vxRi2Mns\nRMbJ/GmGJ9ZuTkN9WEZSi+kjWUSQk2ivDNRnI8F+qstpenjV0QkirKZg6HLlZa3k\nKznsGealKlFoxdhA5Oxe2cSuZxbJUVqPdAxYVMECgYAg36vaHfef5+RdVfmmzR5O\nhqlcpA1dPHtCmAwDBRfLzBfRZ8VkI0GZKYAmQstBvXETX1BXRjjA8JwVZ/psj6Hp\nuGsU+7YCnYmqz00UdVsoxKsJ/44LRTG0tbZ6pYi+EbtqNRBKJ8ljvMmuL6/qh+Lm\n4FXZ5JlNrX8OSoxkLLfDbg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "luqman@medstore-spreadsheet.iam.gserviceaccount.com",
+  "client_id": "117263568682576080862",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/luqman%40medstore-spreadsheet.iam.gserviceaccount.com"
+}
